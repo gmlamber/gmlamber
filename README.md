@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gmlamber
 - 👀 I’m interested in physics, computing, and math.
-- 🌱 I’m currently taking courses on electricity and magnetism, psychology, team-based software project development, and scientific programming and error analysis.
-- 💞️ I’m looking to collaborate on in-class projects and (hopefully, someday soon) computational physics research.
+- 🌱 I’m currently taking courses on electricity and magnetism, quantum mechanics, research methodology, and public speaking.
+- 💞️ I’m looking to collaborate on computational physics research.
 - 📫 How to reach me -- email gmlamber@mtu.edu
 
 <!---
