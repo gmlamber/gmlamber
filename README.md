@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gmlamber
 - 👀 I’m interested in physics, computing, and math.
-- 🌱 I’m currently taking courses on electricity and magnetism, quantum mechanics, research methodology, and public speaking.
+- 🌱 I have a B.S. in Physics with a C.S. minor from Michigan Technological University. I am currently enrolled in courses on Quantum Computing and Quantum Mechanics at UW-Madison.
 - 💞️ I’m looking to collaborate on computational physics research.
 - 📫 How to reach me -- email gmlamber@mtu.edu
 
